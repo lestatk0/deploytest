@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.epam</groupId>
-	<artifactId>stepan</artifactId>
+	<artifactId>anton</artifactId>
 	<packaging>war</packaging>
 	<version>1</version>
 	<name>artifact</name>

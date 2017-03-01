@@ -15,6 +15,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>Status Servlet</servlet-name>
-    <url-pattern>/stepan</url-pattern>
+    <url-pattern>/anton</url-pattern>
   </servlet-mapping>
 </web-app>
